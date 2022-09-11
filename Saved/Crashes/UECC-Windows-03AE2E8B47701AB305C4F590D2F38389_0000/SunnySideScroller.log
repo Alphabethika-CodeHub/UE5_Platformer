@@ -1,0 +1,1372 @@
+﻿Log file open, 09/11/22 22:57:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=828)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SunnySideScroller
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Irukandji\Documents\Unreal Projects\SunnySideScroller\SunnySideScroller.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="61e90ee14d33d00b365a58aadd936e77"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.566554
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-03AE2E8B47701AB305C4F590D2F38389
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogConfig: Display: Loading Linux ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogConfig: Display: Loading LinuxArm64 ini files took 0.10 seconds
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogConfig: Display: Loading Mac ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogConfig: Display: Loading TVOS ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogConfig: Display: Loading Unix ini files took 0.09 seconds
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogConfig: Display: Loading Windows ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU:        Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4000
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.11-15.57.27:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.11-15.57.27:046][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.11-15.57.27:046][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.11-15.57.27:046][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.11-15.57.27:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.11-15.57.27:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.11-15.57.27:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.11-15.57.27:047][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.11-15.57.27:048][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.11-15.57.27:048][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.11-15.57.27:048][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.11-15.57.27:048][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.11-15.57.27:051][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.11-15.57.27:112][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.11-15.57.27:112][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.11-15.57.27:187][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.11-15.57.27:187][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4026MB of shared system memory, 0 output[s]
+[2022.09.11-15.57.27:189][  0]LogD3D12RHI: Error: Failed to choose a D3D12 Adapter.
+[2022.09.11-15.57.27:212][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 4000
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     DeviceId    : 0166
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     SubSysId    : 16d010cf
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     Revision    : 0009
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     DedicatedVideoMemory : 33554432 bytes
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     SharedSystemMemory : 1845493760 bytes
+[2022.09.11-15.57.27:213][  0]LogD3D11RHI:     AdapterLuid : 0 74071
+[2022.09.11-15.57.27:223][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2022.09.11-15.57.27:223][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.09.11-15.57.27:223][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.09.11-15.57.27:223][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.09.11-15.57.27:223][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.09.11-15.57.27:223][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.09.11-15.57.27:223][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.09.11-15.57.27:223][  0]LogD3D11RHI:     Revision    : 0000
+[2022.09.11-15.57.27:224][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.09.11-15.57.27:224][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.11-15.57.27:224][  0]LogD3D11RHI:     SharedSystemMemory : 4221814784 bytes
+[2022.09.11-15.57.27:224][  0]LogD3D11RHI:     AdapterLuid : 0 74618
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:       0/0/4026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 4000
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     DeviceId    : 0166
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     SubSysId    : 16d010cf
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     Revision    : 0009
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     DedicatedVideoMemory : 33554432 bytes
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     SharedSystemMemory : 1845493760 bytes
+[2022.09.11-15.57.27:228][  0]LogD3D11RHI:     AdapterLuid : 0 74071
+[2022.09.11-15.57.27:228][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.11-15.57.27:228][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.11-15.57.27:228][  0]LogHAL: Display: Platform has ~ 8 GB [8443629568 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.11-15.57.27:228][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.11-15.57.27:228][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.11-15.57.27:228][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.09.11-15.57.27:229][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.09.11-15.57.27:229][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.11-15.57.27:230][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.11-15.57.27:230][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.11-15.57.27:231][  0]LogInit: Computer: DESKTOP-VE36F0U
+[2022.09.11-15.57.27:231][  0]LogInit: User: Irukandji
+[2022.09.11-15.57.27:231][  0]LogInit: CPU Page size=4096, Cores=2
+[2022.09.11-15.57.27:231][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.11-15.57.27:231][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.09.11-15.57.27:231][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.11-15.57.27:231][  0]LogMemory: Process Physical Memory: 238.82 MB used, 239.43 MB peak
+[2022.09.11-15.57.27:231][  0]LogMemory: Process Virtual Memory: 172.02 MB used, 172.02 MB peak
+[2022.09.11-15.57.27:231][  0]LogMemory: Physical Memory: 4868.19 MB used,  3184.29 MB free, 8052.47 MB total
+[2022.09.11-15.57.27:231][  0]LogMemory: Virtual Memory: 6264.00 MB used,  4348.47 MB free, 10612.47 MB total
+[2022.09.11-15.57.27:231][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.11-15.57.27:242][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.11-15.57.27:267][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.11-15.57.27:269][  0]LogInit: Using OS detected language (en-US).
+[2022.09.11-15.57.27:269][  0]LogInit: Using OS detected locale (en-ID).
+[2022.09.11-15.57.27:279][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.11-15.57.27:566][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.11-15.57.27:589][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.11-15.57.27:589][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.11-15.57.27:589][  0]LogWindowsTextInputMethodSystem:   - English (Indonesia) - Touch Input Correction (TSF IME).
+[2022.09.11-15.57.27:589][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.11-15.57.27:616][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.11-15.57.27:616][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.11-15.57.27:859][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.11-15.57.27:859][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.11-15.57.27:874][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.11-15.57.27:874][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4026MB of shared system memory, 0 output[s]
+[2022.09.11-15.57.27:874][  0]LogD3D12RHI: Error: Failed to choose a D3D12 Adapter.
+[2022.09.11-15.57.27:879][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.11-15.57.27:879][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.11-15.57.27:879][  0]LogWindows: Attached monitors:
+[2022.09.11-15.57.27:879][  0]LogWindows:     resolution: 1360x768, work area: (0, 0) -> (1360, 728), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.11-15.57.27:879][  0]LogWindows: Found 1 attached monitors.
+[2022.09.11-15.57.27:880][  0]LogWindows: EnumDisplayDevices:
+[2022.09.11-15.57.27:880][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.11-15.57.27:881][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.09.11-15.57.27:881][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.11-15.57.27:881][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:   Driver Version: 10.18.10.4358 (internal:10.18.10.4358, unified:10.4358)
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:      Driver Date: 12-21-2015
+[2022.09.11-15.57.27:881][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 4000
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     DeviceId    : 0166
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     SubSysId    : 16d010cf
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     Revision    : 0009
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     DedicatedVideoMemory : 33554432 bytes
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     SharedSystemMemory : 1845493760 bytes
+[2022.09.11-15.57.27:881][  0]LogD3D11RHI:     AdapterLuid : 0 74071
+[2022.09.11-15.57.27:971][  0]LogD3D11RHI: Failed to load Intel Extensions Library
+[2022.09.11-15.57.27:971][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.09.11-15.57.27:972][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.11-15.57.27:972][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.09.11-15.57.27:988][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2022.09.11-15.57.27:997][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/SunnySideScroller.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/SunnySideScroller.uproject"  -platform=all'
+[2022.09.11-15.57.27:997][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/SunnySideScroller.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/SunnySideScroller.uproject"  -platform=all" ]
+[2022.09.11-15.57.28:034][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.11-15.57.28:057][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.11-15.57.28:057][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.11-15.57.28:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.11-15.57.28:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.11-15.57.28:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.11-15.57.28:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.11-15.57.28:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.11-15.57.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.11-15.57.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.11-15.57.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.11-15.57.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.11-15.57.28:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.11-15.57.28:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.11-15.57.28:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.11-15.57.28:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.11-15.57.28:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.11-15.57.28:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.11-15.57.28:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.11-15.57.28:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.11-15.57.28:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.11-15.57.28:140][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.11-15.57.28:154][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.11-15.57.28:159][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.11-15.57.28:159][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.11-15.57.28:159][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.11-15.57.28:159][  0]LogTargetPlatformManager:   PCM
+[2022.09.11-15.57.28:163][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.11-15.57.28:163][  0]LogTargetPlatformManager:   BINKA
+[2022.09.11-15.57.28:163][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.11-15.57.28:163][  0]LogTargetPlatformManager:   OGG
+[2022.09.11-15.57.28:163][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.11-15.57.28:163][  0]LogTargetPlatformManager:   OPUS
+[2022.09.11-15.57.28:237][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.11-15.57.28:237][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.11-15.57.28:244][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.11-15.57.28:248][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.11-15.57.28:248][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.11-15.57.28:248][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.11-15.57.28:248][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.11-15.57.28:248][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.11-15.57.28:248][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.11-15.57.28:248][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.11-15.57.28:249][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.11-15.57.28:249][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.11-15.57.28:251][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.11-15.57.28:252][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.11-15.57.28:252][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.11-15.57.28:253][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.11-15.57.28:254][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.11-15.57.28:259][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.11-15.57.28:259][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.11-15.57.28:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.11-15.57.28:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.11-15.57.28:293][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.11-15.57.28:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.11-15.57.28:293][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.11-15.57.28:293][  0]LogDerivedDataCache: Found registry key GlobalDataCachePath UE-LocalDataCachePath=C:/Program Files/Epic Games/UE_5.0/Engine/DerivedDataCache
+[2022.09.11-15.57.28:309][  0]LogDerivedDataCache: Speed tests for C:/Users/Irukandji/Documents/Unreal Projects/SunnyPlatformer/DerivedDataCache took 0.02 seconds
+[2022.09.11-15.57.28:309][  0]LogDerivedDataCache: Display: Performance to C:/Users/Irukandji/Documents/Unreal Projects/SunnyPlatformer/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=167.64MBs, RandomWriteSpeed=95.18MBs. Assigned SpeedClass 'Local'
+[2022.09.11-15.57.28:310][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Irukandji/Documents/Unreal Projects/SunnyPlatformer/DerivedDataCache: Writable
+[2022.09.11-15.57.28:311][  0]LogDerivedDataCache: Found registry key GlobalDataCachePath UE-SharedDataCachePath=C:/Program Files/Epic Games/UE_5.0/Engine/DerivedDataCache
+[2022.09.11-15.57.28:327][  0]LogDerivedDataCache: Speed tests for C:/Users/Irukandji/Documents/Unreal Projects/SunnyPlatformer/DerivedDataCache took 0.02 seconds
+[2022.09.11-15.57.28:327][  0]LogDerivedDataCache: Display: Performance to C:/Users/Irukandji/Documents/Unreal Projects/SunnyPlatformer/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=179.87MBs, RandomWriteSpeed=91.39MBs. Assigned SpeedClass 'Local'
+[2022.09.11-15.57.28:329][  0]LogDerivedDataCache: Using Shared data cache path C:/Users/Irukandji/Documents/Unreal Projects/SunnyPlatformer/DerivedDataCache: Writable
+[2022.09.11-15.57.28:345][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.11-15.57.28:345][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.11-15.57.28:346][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Intermediate/Shaders/WorkingDirectory/11032/).
+[2022.09.11-15.57.28:346][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Irukandji/AppData/Local/Temp/UnrealShaderWorkingDir/F7DC6C1B4CB552F09B828592D6C28358/'.
+[2022.09.11-15.57.28:356][  0]LogXGEController: Display: Initialized XGE controller. XGE tasks will not be spawned on this machine.
+[2022.09.11-15.57.28:356][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2022.09.11-15.57.30:840][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.11-15.57.30:841][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.11-15.57.30:908][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2022.09.11-15.57.30:926][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.11-15.57.31:484][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.11-15.57.31:486][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.11-15.57.32:342][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.11-15.57.32:342][  0]LogDeviceProfileManager: Active device profile: [00000B0881F83640][00000B0869F25000 50] WindowsEditor
+[2022.09.11-15.57.32:342][  0]LogDeviceProfileManager: Profiles: [00000B0881F83100][00000B08749BA000 50] Windows, [00000B0881F83640][00000B0869F25000 50] WindowsEditor, [00000B0881F82F40][00000B087A970000 50] WindowsServer, [00000B0881F82840][00000B0881FC0000 50] WindowsClient, [00000B0881F81180][00000B0881FC5000 50] IOS, [00000B0881F83480][00000B0881FC7800 50] iPadAir2, [00000B0881F85940][00000B0881FCC800 50] IPadPro, [00000B0881F85CC0][00000B0881FCA000 50] iPadAir3, [00000B0881F84D00][00000B087A972800 50] iPadAir4, [00000B0881F82A00][00000B0881F60000 50] iPadMini4, [00000B0881F84B40][00000B0881F65000 50] iPadMini5, [00000B0881F80A80][00000B0881F67800 50] iPadMini6, [00000B0881F88500][00000B0881FC2800 50] iPhone6S, [00000B0881F88880][00000B0881F6C800 50] iPhone7, [00000B0881F88C00][00000B0881F6A000 50] iPodTouch7, [00000B0881F86740][00000B0881FD0000 50] iPhone6SPlus, [00000B0881F839C0][00000B0881FD5000 50] iPhone7Plus, [00000B0881F847C0][00000B0881FD7800 50] iPhoneSE, [00000B0881F87380][00000B0881FDA000 50] iPhone8, [00000B0881F83800][00000B0881FDC800 50] iPhone8Plus, [00000B0881F84600][00000B0881F62800 50] iPhoneX, [00000B0881F824C0][00000B0882030000 50] iPhoneXS, [00000B0881F84440][00000B0882035000 50] iPhoneXSMax, [00000B0881F87000][00000B0882037800 50] iPhoneXR, [00000B0881F81340][00000B088203A000 50] iPhone11, [00000B0881F82300][00000B088203C800 50] iPhone11Pro, [00000B0881F81DC0][00000B0881FD2800 50] iPhone11ProMax, [00000B0881F82680][00000B0882040000 50] iPhoneSE2, [00000B0881F84980][00000B0882045000 50] iPhone12Mini, [00000B0881F88180][00000B0882047800 50] iPhone12, [00000B0881F81C00][00000B088204A000 50] iPhone12Pro, [00000B0881F86C80][00000B088204C800 50] iPhone12ProMax, [00000B0881F85B00][00000B0882032800 50] iPhone13Mini, [00000B0881F85400][00000B0882050000 50] iPhone13, [00000B0881F80000][00000B0882055000 50] iPhone13Pro, [00000B0881F87E00][00000B0882057800 50] iPhone13ProMax, [00000B0881F80540][00000B088205A000 50] iPadPro105, [00000B0881F80C40][00000B088205C800 50] iPadPro129, [00000B0881F85240][00000B0882042800 50] iPadPro97, [00000B0881F878C0][00000B0882060000 50] iPadPro2_129, [00000B0881F83B80][00000B0882065000 50] iPad5, [00000B0881F808C0][00000B0882067800 50] iPad6, [00000B0881F816C0][00000B088206A000 50] iPad7, [00000B0881F85E80][00000B088206C800 50] iPad8, [00000B0881F88A40][00000B0882052800 50] iPad9, [00000B0881F855C0][00000B0882070000 50] iPadPro11, [00000B0881F863C0][00000B0882075000 50] iPadPro2_11, [00000B0881F82D80][00000B0882077800 50] iPadPro3_11, [00000B0881F87C40][00000B088207A000 50] iPadPro3_129, [00000B0881F86040][00000B088207C800 50] iPadPro4_129, [00000B0881F83D40][00000B0882062800 50] iPadPro5_129, [00000B0881F886C0][00000B0882080000 50] AppleTV, [00000B0881F87540][00000B0882085000 50] AppleTV4K, [00000B0881F81880][00000B0882087800 50] TVOS, [00000B0881F8A2C0][00000B088208C800 50] Mac, [00000B0881F8A640][00000B088208A000 50] MacEditor, [00000B0881F81A40][00000B0882072800 50] MacClient, [00000B0881F86AC0][00000B0882090000 50] MacServer, [00000B0881F8A480][00000B0882097800 50] Linux, [00000B0881F8AF00][00000B0882095000 50] LinuxEditor, [00000B0881F84280][00000B088209A000 50] LinuxArm64Editor, [00000B0881F8A800][00000B088209C800 50] LinuxArm64, [00000B0881F80E00][00000B0882082800 50] LinuxClient, [00000B0881F8B0C0][00000B08820A0000 50] LinuxArm64Client, [00000B0881F89F40][00000B08820A5000 50] LinuxServer, [00000B0881F840C0][00000B08820A7800 50] LinuxArm64Server, [00000B0881F80FC0][00000B08820AA000 50] Android, [00000B0881F89D80][00000B08820AC800 50] Android_Preview_OpenGL, [00000B0881F88F80][00000B0882092800 50] Android_Preview_Vulkan, [00000B0881F83F00][00000B08820B0000 50] Android_Low, [00000B0881F85780][00000B08820B5000 50] Android_Mid, [00000B0881F89300][00000B08820B7800 50] Android_High, [00000B0881F871C0][00000B08820BA000 50] Android_Default, [00000B0881F84EC0][00000B08820BC800 50] Android_Adreno4xx, [00000B0881F801C0][00000B08820A2800 50] Android_Adreno5xx_Low, [00000B0881F86900][00000B08820C0000 50] Android_Adreno5xx, [00000B0881F85080][00000B08820C5000 50] Android_Adreno6xx, [00000B0881F8B440][00000B08820C7800 50] Android_Adreno6xx_Vulkan, [00000B0881F89680][00000B08820CA000 50] Android_Adreno7xx, [00000B0881F80380][00000B08820CC800 50] Android_Adreno7xx_Vulkan, [00000B0881F8B7C0][00000B08820B2800 50] Android_Mali_T6xx, [00000B0881F87FC0][00000B08820D0000 50] Android_Mali_T7xx, [00000B0881F89BC0][00000B08820D5000 50] Android_Mali_T8xx, [00000B0881F89840][00000B08820D7800 50] Android_Mali_G71, [00000B0881F894C0][00000B08820DA000 50] Android_Mali_G72, [00000B0881F89140][00000B08820DC800 50] Android_Mali_G72_Vulkan, [00000B0881F88340][00000B08820C2800 50] Android_Mali_G76, [00000B0881F8B280][00000B08820E0000 50] Android_Mali_G76_Vulkan, [00000B0881F8BD00][00000B08820E5000 50] Android_Mali_G77, [00000B0881F82140][00000B08820E7800 50] Android_Mali_G77_Vulkan, [00000B0881F8C240][00000B08820EA000 50] Android_Mali_G78, [00000B0881F8AB80][00000B08820EC800 50] Android_Mali_G78_Vulkan, [00000B0881F8BB40][00000B08820D2800 50] Android_Mali_G710, [00000B0881F8BEC0][00000B08820F0000 50] Android_Mali_G710_Vulkan, [00000B0881F8C940][00000B08820F5000 50] Android_Xclipse_920, [00000B0881F82BC0][00000B08820F7800 50] Android_Xclipse_920_Vulkan, [00000B0881F8C080][00000B08820FA000 50] Android_Vulkan_SM5, [00000B0881F86580][00000B08820FC800 50] Android_PowerVR_G6xxx, [00000B0881F8D200][00000B08820E2800 50] Android_PowerVR_GT7xxx, [00000B0881F8C400][00000B0882100000 50] Android_PowerVR_GE8xxx, [00000B0881F81F80][00000B0882105000 50] Android_PowerVR_GM9xxx, [00000B0881F8CE80][00000B0882107800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B0881F8D900][00000B088210A000 50] Android_TegraK1, [00000B0881F8AD40][00000B088210C800 50] Android_Unknown_Vulkan, [00000B0881F8D040][00000B08820F2800 50] Oculus_Quest, [00000B0881F88DC0][00000B0882110000 50] Oculus_Quest2, [00000B0881F8E000][00000B0882115000 50] HoloLens, 
+[2022.09.11-15.57.32:342][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.11-15.57.32:373][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.11-15.57.32:849][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.11-15.57.32:849][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.11-15.57.32:849][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.11-15.57.32:849][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.11-15.57.32:849][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.11-15.57.32:883][  0]LogNetVersion: SunnySideScroller 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3183336189)
+[2022.09.11-15.57.33:217][  0]LogSlate: Border
+[2022.09.11-15.57.33:217][  0]LogSlate: BreadcrumbButton
+[2022.09.11-15.57.33:217][  0]LogSlate: Default
+[2022.09.11-15.57.33:217][  0]LogSlate: Icons.Save
+[2022.09.11-15.57.33:217][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.11-15.57.33:217][  0]LogSlate: ListView
+[2022.09.11-15.57.33:217][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.11-15.57.33:217][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.11-15.57.33:217][  0]LogSlate: TableView.DarkRow
+[2022.09.11-15.57.33:217][  0]LogSlate: TableView.Row
+[2022.09.11-15.57.33:217][  0]LogSlate: TreeView
+[2022.09.11-15.57.33:697][  0]SourceControl: Source control is disabled
+[2022.09.11-15.57.33:774][  0]SourceControl: Source control is disabled
+[2022.09.11-15.57.33:774][  0]SourceControl: Source control is disabled
+[2022.09.11-15.57.34:077][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.11-15.57.34:077][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.09.11-15.57.34:077][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.11-15.57.34:925][  0]LogPython: Using Python 3.9.7
+[2022.09.11-15.57.37:179][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1FA1E67C44BE335F084E3BA8C60569EC | Instance: 1A0A39A34FE9425868839281FA0900A5 (DESKTOP-VE36F0U-11032).
+[2022.09.11-15.57.37:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.11-15.57.37:341][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.11-15.57.37:541][  0]SourceControl: Source control is disabled
+[2022.09.11-15.57.37:548][  0]SourceControl: Source control is disabled
+[2022.09.11-15.57.37:572][  0]SourceControl: Source control is disabled
+[2022.09.11-15.57.37:694][  0]LogUProjectInfo: Found projects:
+[2022.09.11-15.57.38:301][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.11-15.57.38:477][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.11-15.57.38:527][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.11-15.57.38:528][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.11-15.57.38:798][  0]LogCollectionManager: Loaded 0 collections in 0.002146 seconds
+[2022.09.11-15.57.39:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/Collections/' took 0.02s
+[2022.09.11-15.57.39:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/Developers/Irukandji/Collections/' took 0.01s
+[2022.09.11-15.57.39:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/Collections/' took 0.01s
+[2022.09.11-15.57.39:988][  0]LogEngine: Initializing Engine...
+[2022.09.11-15.57.40:022][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.11-15.57.40:026][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.11-15.57.40:942][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.11-15.57.40:953][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.11-15.57.40:985][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.11-15.57.41:148][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.11-15.57.41:150][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.11-15.57.41:225][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.11-15.57.41:226][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.11-15.57.41:227][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.11-15.57.41:228][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.11-15.57.41:228][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.11-15.57.41:228][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.11-15.57.41:228][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.11-15.57.41:228][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.11-15.57.41:228][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.11-15.57.41:228][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.11-15.57.41:228][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.11-15.57.41:228][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.11-15.57.41:228][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.11-15.57.41:229][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.11-15.57.41:229][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.11-15.57.41:229][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.11-15.57.41:245][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.11-15.57.41:375][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.09.11-15.57.41:376][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.11-15.57.41:381][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.11-15.57.41:381][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.11-15.57.41:382][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.11-15.57.41:383][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.11-15.57.41:386][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.11-15.57.41:386][  0]LogInit: FAudioDevice initialized.
+[2022.09.11-15.57.41:386][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.11-15.57.41:386][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.11-15.57.41:386][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.11-15.57.41:387][  0]LogInit: Texture streaming: Enabled
+[2022.09.11-15.57.41:497][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.11-15.57.41:522][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.11-15.57.41:597][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.11-15.57.41:615][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.11-15.57.41:615][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.11-15.57.48:154][  0]LogLiveCoding: Display: First instance in process group "UE_SunnySideScroller_0x26ac1c2d", spawning console
+[2022.09.11-15.57.48:154][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.11-15.57.48:154][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.11-15.57.48:161][  0]LogInit: Transaction tracking system initialized
+[2022.09.11-15.57.48:376][  0]BlueprintLog: New page: Editor Load
+[2022.09.11-15.57.49:109][  0]LocalizationService: Localization service is disabled
+[2022.09.11-15.57.49:255][  0]TimingProfiler: Initialize
+[2022.09.11-15.57.49:255][  0]TimingProfiler: OnSessionChanged
+[2022.09.11-15.57.49:255][  0]LoadingProfiler: Initialize
+[2022.09.11-15.57.49:255][  0]LoadingProfiler: OnSessionChanged
+[2022.09.11-15.57.49:255][  0]NetworkingProfiler: Initialize
+[2022.09.11-15.57.49:255][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.11-15.57.49:255][  0]MemoryProfiler: Initialize
+[2022.09.11-15.57.49:255][  0]MemoryProfiler: OnSessionChanged
+[2022.09.11-15.57.51:166][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/' took 0.00s
+[2022.09.11-15.57.51:166][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.11-15.57.51:414][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.11-15.57.51:421][  0]SourceControl: Source control is disabled
+[2022.09.11-15.57.51:422][  0]LogUnrealEdMisc: Loading editor; pre map load, took 27.211
+[2022.09.11-15.57.51:422][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.11-15.57.51:422][  0]LightingResults: New page: Lighting Build
+[2022.09.11-15.57.51:440][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.11-15.57.51:440][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.11-15.57.51:441][  0]MapCheck: New page: Map Check
+[2022.09.11-15.57.51:441][  0]LightingResults: New page: Lighting Build
+[2022.09.11-15.57.51:471][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.11-15.57.51:482][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.09.11-15.57.51:558][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.09.11-15.57.51:571][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.11-15.57.51:571][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.11-15.57.51:572][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.11-15.57.51:572][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.11-15.57.52:497][  0]LogWorldPartition: Display: WorldPartition initialize took 924 ms
+[2022.09.11-15.57.53:156][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.11-15.57.53:187][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.09.11-15.57.53:188][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.11-15.57.53:222][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 34.165ms to complete.
+[2022.09.11-15.57.53:222][  0]LogFileHelpers: Loading map 'OpenWorld' took 1.800
+[2022.09.11-15.57.53:252][  0]LogUnrealEdMisc: Total Editor Startup Time, took 29.041
+[2022.09.11-15.57.53:252][  0]LogShaderCompilers: Display: ================================================
+[2022.09.11-15.57.53:252][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.11-15.57.53:252][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.11-15.57.53:252][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.11-15.57.53:252][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.09.11-15.57.53:253][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.11-15.57.53:253][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.11-15.57.53:253][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.11-15.57.53:253][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.11-15.57.53:253][  0]LogShaderCompilers: Display: ================================================
+[2022.09.11-15.57.53:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.11-15.57.53:441][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.11-15.57.53:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.11-15.57.53:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.11-15.57.53:633][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:633][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:634][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:635][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:635][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:636][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:636][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:637][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:638][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:638][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:639][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:639][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:640][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:641][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:641][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:642][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:643][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:643][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:644][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.11-15.57.53:645][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.11-15.57.53:645][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.11-15.57.53:916][  0]LogSlate: Took 0.000575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.11-15.57.53:926][  0]LogSlate: Took 0.001964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.11-15.57.53:929][  0]LogSlate: Took 0.002022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.11-15.57.53:989][  0]LogViewport: Scene viewport resized to 973x590, mode Windowed.
+[2022.09.11-15.57.55:378][  0]LogStall: Startup...
+[2022.09.11-15.57.55:380][  0]LogStall: Startup complete.
+[2022.09.11-15.57.55:418][  0]LogLoad: (Engine Initialization) Total time: 31.21 seconds
+[2022.09.11-15.57.55:418][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.11-15.57.56:101][  0]LogAssetRegistry: Asset discovery search completed in 25.1954 seconds
+[2022.09.11-15.57.56:110][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.11-15.57.56:122][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.09.11-15.57.56:169][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.11-15.57.57:003][  2]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.11-15.57.59:955][ 45]LogMeshUtilities: Finished distance field build in 3.5s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 682 triangles, PlanarReflectionPlane
+[2022.09.11-15.58.02:939][ 99]LogMeshUtilities: Finished distance field build in 2.7s - 49x49x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 92% occupied, 4 triangles, EditorCube
+[2022.09.11-15.58.08:874][340]LogSlate: Window 'New Level' being destroyed
+[2022.09.11-15.58.08:882][340]LightingResults: New page: Lighting Build
+[2022.09.11-15.58.08:953][340]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.11-15.58.08:954][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.11-15.58.08:956][340]MapCheck: New page: Map Check
+[2022.09.11-15.58.08:956][340]LightingResults: New page: Lighting Build
+[2022.09.11-15.58.08:981][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.11-15.58.09:023][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.09.11-15.58.09:026][340]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.11-15.58.09:026][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.11-15.58.09:026][340]LogAIModule: Creating AISystem for world Untitled
+[2022.09.11-15.58.09:034][340]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.11-15.58.09:034][340]LoadErrors: New page: New Map
+[2022.09.11-15.58.09:310][347]LogMeshUtilities: Finished distance field build in 6.3s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 1322 triangles, EditorSphere
+[2022.09.11-15.58.11:975][458]LogMeshUtilities: Finished distance field build in 2.0s - 35x35x49 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 98% occupied, 149 triangles, EditorCylinder
+[2022.09.11-15.58.13:421][516]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.11-15.58.23:186][883]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.11-15.58.26:926][126]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.11-15.58.26:942][126]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.11-15.58.26:942][126]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.11-15.58.26:982][128]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.11-15.58.31:004][350]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.09.11-15.58.31:006][350]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.11-15.58.38:169][619]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.11-15.58.40:180][716]LogMeshUtilities: Finished distance field build in 28.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2022.09.11-15.58.54:551][716]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.11-15.58.54:665][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.11-15.58.54:677][716]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006017 seconds
+[2022.09.11-15.58.54:693][716]LogSavePackage: Moving output files for package: /Game/Maps/Map_1_Scroller
+[2022.09.11-15.58.54:693][716]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/Map_1_Scroller69C3BAED490B05454BC1A7860FE821D4.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/Maps/Map_1_Scroller.umap'
+[2022.09.11-15.58.54:735][716]LogFileHelpers: Saving map 'Map_1_Scroller' took 0.173
+[2022.09.11-15.58.54:735][716]Cmd: MAP LOAD FILE="../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/Maps/Map_1_Scroller.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.11-15.58.54:735][716]LightingResults: New page: Lighting Build
+[2022.09.11-15.58.54:735][716]LoadErrors: New page: Loading map: Map_1_Scroller.umap
+[2022.09.11-15.58.54:768][716]LogWorld: UWorld::CleanupWorld for Map_1_Scroller, bSessionEnded=true, bCleanupResources=true
+[2022.09.11-15.58.54:768][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.11-15.58.54:769][716]MapCheck: New page: Map Check
+[2022.09.11-15.58.54:769][716]LightingResults: New page: Lighting Build
+[2022.09.11-15.58.54:781][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.11-15.58.54:783][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.09.11-15.58.54:786][716]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_1_Scroller'.
+[2022.09.11-15.58.54:786][716]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.11-15.58.54:786][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.11-15.58.54:787][716]LogAIModule: Creating AISystem for world Map_1_Scroller
+[2022.09.11-15.58.54:789][716]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.11-15.58.54:806][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.11-15.58.54:820][716]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.11-15.58.54:820][716]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.233ms to complete.
+[2022.09.11-15.58.54:820][716]LogFileHelpers: Loading map 'Map_1_Scroller' took 0.085
+[2022.09.11-15.58.54:826][716]AssetCheck: New page: Asset Save: Map_1_Scroller
+[2022.09.11-15.58.54:827][716]LogContentValidation: Display: Validating World /Game/Maps/Map_1_Scroller.Map_1_Scroller
+[2022.09.11-15.58.57:144][810]LogEditorViewport: Clicking Background
+[2022.09.11-15.58.59:891][926]LogMeshUtilities: Finished mesh card build in 5.1s EditorSkySphere tris:1322
+[2022.09.11-15.59.10:296][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/environment-preview.png)
+[2022.09.11-15.59.10:328][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/environment-preview.environment-preview (TFO_AutoDXT, 1456X464 X1X1) (Required Memory Estimate: 12.885742 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:328][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/layers/back.png)
+[2022.09.11-15.59.10:336][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/layers/middle.png)
+[2022.09.11-15.59.10:344][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/layers/props.png)
+[2022.09.11-15.59.10:353][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/layers/tileset.png)
+[2022.09.11-15.59.10:362][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/big-crate.png)
+[2022.09.11-15.59.10:366][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/block-big.png)
+[2022.09.11-15.59.10:370][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/block.png)
+[2022.09.11-15.59.10:375][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/bush.png)
+[2022.09.11-15.59.10:380][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/crank-down.png)
+[2022.09.11-15.59.10:384][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/crank-up.png)
+[2022.09.11-15.59.10:389][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/crate.png)
+[2022.09.11-15.59.10:393][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/door-opened.png)
+[2022.09.11-15.59.10:398][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/door.png)
+[2022.09.11-15.59.10:402][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/face-block.png)
+[2022.09.11-15.59.10:406][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/house.png)
+[2022.09.11-15.59.10:413][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/platform-long.png)
+[2022.09.11-15.59.10:418][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/rock.png)
+[2022.09.11-15.59.10:422][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/shrooms.png)
+[2022.09.11-15.59.10:425][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/sign.png)
+[2022.09.11-15.59.10:430][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/skulls.png)
+[2022.09.11-15.59.10:433][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/small-platform.png)
+[2022.09.11-15.59.10:437][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/spike-skull.png)
+[2022.09.11-15.59.10:445][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/spikes-top.png)
+[2022.09.11-15.59.10:450][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/layers/back.back (TFO_AutoDXT, 384X240 X1X1) (Required Memory Estimate: 1.757812 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:451][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/spikes.png)
+[2022.09.11-15.59.10:456][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/environment/props/tree.png)
+[2022.09.11-15.59.10:461][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/cherry/cherry-1.png)
+[2022.09.11-15.59.10:466][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/layers/middle.middle (TFO_AutoDXT, 176X368 X1X1) (Required Memory Estimate: 1.235352 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:466][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/cherry/cherry-2.png)
+[2022.09.11-15.59.10:472][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/cherry/cherry-3.png)
+[2022.09.11-15.59.10:480][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/cherry/cherry-4.png)
+[2022.09.11-15.59.10:486][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/layers/props.props (TFO_AutoDXT, 416X224 X1X1) (Required Memory Estimate: 1.777344 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:486][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/cherry/cherry-5.png)
+[2022.09.11-15.59.10:499][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/cherry/cherry-6.png)
+[2022.09.11-15.59.10:513][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/layers/tileset.tileset (TFO_AutoDXT, 400X368 X1X1) (Required Memory Estimate: 2.807617 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:513][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/cherry/cherry-7.png)
+[2022.09.11-15.59.10:519][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/eagle/eagle-attack-1.png)
+[2022.09.11-15.59.10:524][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/eagle/eagle-attack-2.png)
+[2022.09.11-15.59.10:527][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/eagle/eagle-attack-3.png)
+[2022.09.11-15.59.10:533][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/eagle/eagle-attack-4.png)
+[2022.09.11-15.59.10:539][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/big-crate.big-crate (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:539][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/enemy-death/enemy-death-1.png)
+[2022.09.11-15.59.10:548][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/block-big.block-big (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:548][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/enemy-death/enemy-death-2.png)
+[2022.09.11-15.59.10:555][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/block.block (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:555][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/enemy-death/enemy-death-3.png)
+[2022.09.11-15.59.10:562][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/bush.bush (BGRA8, 46X28 X1X1) (Required Memory Estimate: 0.024567 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:562][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/enemy-death/enemy-death-4.png)
+[2022.09.11-15.59.10:568][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/crank-down.crank-down (BGRA8, 22X16 X1X1) (Required Memory Estimate: 0.006714 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:568][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/crank-up.crank-up (BGRA8, 22X16 X1X1) (Required Memory Estimate: 0.006714 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:568][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/enemy-death/enemy-death-5.png)
+[2022.09.11-15.59.10:573][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/enemy-death/enemy-death-6.png)
+[2022.09.11-15.59.10:583][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/frog/idle/frog-idle-1.png)
+[2022.09.11-15.59.10:592][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/crate.crate (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:593][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/door-opened.door-opened (BGRA8, 22X33 X1X1) (Required Memory Estimate: 0.013847 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:593][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/door.door (BGRA8, 22X33 X1X1) (Required Memory Estimate: 0.013847 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:593][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/frog/idle/frog-idle-2.png)
+[2022.09.11-15.59.10:599][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/face-block.face-block (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:599][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/frog/idle/frog-idle-3.png)
+[2022.09.11-15.59.10:606][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/house.house (BGRA8, 87X108 X1X1) (Required Memory Estimate: 0.179214 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:606][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/frog/idle/frog-idle-4.png)
+[2022.09.11-15.59.10:613][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/frog/jump/frog-jump-1.png)
+[2022.09.11-15.59.10:620][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/platform-long.platform-long (TFO_AutoDXT, 32X16 X1X1) (Required Memory Estimate: 0.009766 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:620][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/rock.rock (BGRA8, 28X15 X1X1) (Required Memory Estimate: 0.008011 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:620][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/frog/jump/frog-jump-2.png)
+[2022.09.11-15.59.10:629][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/gem/gem-1.png)
+[2022.09.11-15.59.10:635][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/shrooms.shrooms (BGRA8, 16X15 X1X1) (Required Memory Estimate: 0.004578 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:635][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/sign.sign (BGRA8, 18X20 X1X1) (Required Memory Estimate: 0.006866 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:635][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/skulls.skulls (BGRA8, 16X10 X1X1) (Required Memory Estimate: 0.003052 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:635][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/gem/gem-2.png)
+[2022.09.11-15.59.10:642][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/gem/gem-3.png)
+[2022.09.11-15.59.10:649][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/small-platform.small-platform (TFO_AutoDXT, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:649][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/spike-skull.spike-skull (BGRA8, 17X12 X1X1) (Required Memory Estimate: 0.003891 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:649][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/gem/gem-4.png)
+[2022.09.11-15.59.10:658][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/gem/gem-5.png)
+[2022.09.11-15.59.10:665][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/spikes-top.spikes-top (BGRA8, 15X9 X1X1) (Required Memory Estimate: 0.002575 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:665][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/spikes.spikes (BGRA8, 15X10 X1X1) (Required Memory Estimate: 0.002861 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:665][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/item-feedback/item-feedback-1.png)
+[2022.09.11-15.59.10:686][ 70]LogTexture: Display: Building textures: /Game/PNG/environment/props/tree.tree (BGRA8, 105X93 X1X1) (Required Memory Estimate: 0.186253 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:686][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/cherry/cherry-1.cherry-1 (BGRA8, 21X21 X1X1) (Required Memory Estimate: 0.008411 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:686][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/cherry/cherry-2.cherry-2 (BGRA8, 21X21 X1X1) (Required Memory Estimate: 0.008411 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:687][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/cherry/cherry-3.cherry-3 (BGRA8, 21X21 X1X1) (Required Memory Estimate: 0.008411 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:687][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/cherry/cherry-4.cherry-4 (BGRA8, 21X21 X1X1) (Required Memory Estimate: 0.008411 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:687][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/cherry/cherry-5.cherry-5 (BGRA8, 21X21 X1X1) (Required Memory Estimate: 0.008411 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:687][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/cherry/cherry-6.cherry-6 (BGRA8, 21X21 X1X1) (Required Memory Estimate: 0.008411 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:687][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/cherry/cherry-7.cherry-7 (BGRA8, 21X21 X1X1) (Required Memory Estimate: 0.008411 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:687][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/eagle/eagle-attack-1.eagle-attack-1 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:687][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/item-feedback/item-feedback-2.png)
+[2022.09.11-15.59.10:692][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/eagle/eagle-attack-2.eagle-attack-2 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:711][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/item-feedback/item-feedback-3.png)
+[2022.09.11-15.59.10:718][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/eagle/eagle-attack-3.eagle-attack-3 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:718][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/eagle/eagle-attack-4.eagle-attack-4 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:718][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/item-feedback/item-feedback-4.png)
+[2022.09.11-15.59.10:724][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/opossum/opossum-1.png)
+[2022.09.11-15.59.10:733][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/enemy-death/enemy-death-1.enemy-death-1 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:733][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/enemy-death/enemy-death-2.enemy-death-2 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:733][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/enemy-death/enemy-death-3.enemy-death-3 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:733][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/opossum/opossum-2.png)
+[2022.09.11-15.59.10:744][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/opossum/opossum-3.png)
+[2022.09.11-15.59.10:753][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/enemy-death/enemy-death-4.enemy-death-4 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:753][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/enemy-death/enemy-death-5.enemy-death-5 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:753][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/opossum/opossum-4.png)
+[2022.09.11-15.59.10:758][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/enemy-death/enemy-death-6.enemy-death-6 (BGRA8, 40X41 X1X1) (Required Memory Estimate: 0.031281 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:758][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/frog/idle/frog-idle-1.frog-idle-1 (BGRA8, 35X32 X1X1) (Required Memory Estimate: 0.021362 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:758][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/frog/idle/frog-idle-2.frog-idle-2 (BGRA8, 35X32 X1X1) (Required Memory Estimate: 0.021362 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:758][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/opossum/opossum-5.png)
+[2022.09.11-15.59.10:768][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/opossum/opossum-6.png)
+[2022.09.11-15.59.10:776][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/frog/idle/frog-idle-3.frog-idle-3 (BGRA8, 35X32 X1X1) (Required Memory Estimate: 0.021362 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:778][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/climb/player-climb-1.png)
+[2022.09.11-15.59.10:785][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/frog/idle/frog-idle-4.frog-idle-4 (BGRA8, 35X32 X1X1) (Required Memory Estimate: 0.021362 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:785][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/climb/player-climb-2.png)
+[2022.09.11-15.59.10:789][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/frog/jump/frog-jump-1.frog-jump-1 (BGRA8, 35X32 X1X1) (Required Memory Estimate: 0.021362 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:795][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/frog/jump/frog-jump-2.frog-jump-2 (BGRA8, 35X32 X1X1) (Required Memory Estimate: 0.021362 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:795][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/climb/player-climb-3.png)
+[2022.09.11-15.59.10:806][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/gem/gem-1.gem-1 (BGRA8, 15X13 X1X1) (Required Memory Estimate: 0.003719 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:807][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/gem/gem-2.gem-2 (BGRA8, 15X13 X1X1) (Required Memory Estimate: 0.003719 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:807][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/crouch/player-crouch-1.png)
+[2022.09.11-15.59.10:814][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/gem/gem-3.gem-3 (BGRA8, 15X13 X1X1) (Required Memory Estimate: 0.003719 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:814][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/crouch/player-crouch-2.png)
+[2022.09.11-15.59.10:822][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/gem/gem-4.gem-4 (BGRA8, 15X13 X1X1) (Required Memory Estimate: 0.003719 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:823][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/gem/gem-5.gem-5 (BGRA8, 15X13 X1X1) (Required Memory Estimate: 0.003719 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:823][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/hurt/player-hurt-1.png)
+[2022.09.11-15.59.10:832][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/hurt/player-hurt-2.png)
+[2022.09.11-15.59.10:838][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-1.item-feedback-1 (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:838][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/idle/player-idle-1.png)
+[2022.09.11-15.59.10:853][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-2.item-feedback-2 (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:853][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/idle/player-idle-2.png)
+[2022.09.11-15.59.10:864][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-3.item-feedback-3 (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:864][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/idle/player-idle-3.png)
+[2022.09.11-15.59.10:870][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-4.item-feedback-4 (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:870][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/idle/player-idle-4.png)
+[2022.09.11-15.59.10:882][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/jump/player-jump-1.png)
+[2022.09.11-15.59.10:890][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-1.opossum-1 (TFO_AutoDXT, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:890][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-2.opossum-2 (TFO_AutoDXT, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:890][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/jump/player-jump-2.png)
+[2022.09.11-15.59.10:899][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-3.opossum-3 (TFO_AutoDXT, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:899][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/run/player-run-1.png)
+[2022.09.11-15.59.10:906][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-4.opossum-4 (TFO_AutoDXT, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:908][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/run/player-run-2.png)
+[2022.09.11-15.59.10:918][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/run/player-run-3.png)
+[2022.09.11-15.59.10:924][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-5.opossum-5 (TFO_AutoDXT, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:924][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/run/player-run-4.png)
+[2022.09.11-15.59.10:932][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-6.opossum-6 (TFO_AutoDXT, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:932][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/climb/player-climb-1.player-climb-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:932][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/run/player-run-5.png)
+[2022.09.11-15.59.10:955][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/climb/player-climb-2.player-climb-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:955][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/climb/player-climb-3.player-climb-3 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:955][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/sprites/player/run/player-run-6.png)
+[2022.09.11-15.59.10:966][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/crouch/player-crouch-1.player-crouch-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:966][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/cherry.png)
+[2022.09.11-15.59.10:972][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/crouch/player-crouch-2.player-crouch-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:972][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/hurt/player-hurt-1.player-hurt-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:972][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/eagle-attack.png)
+[2022.09.11-15.59.10:982][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/hurt/player-hurt-2.player-hurt-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.10:982][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/enemy-deadth.png)
+[2022.09.11-15.59.10:988][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/frog-idle.png)
+[2022.09.11-15.59.11:000][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/frog-jump.png)
+[2022.09.11-15.59.11:006][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/idle/player-idle-1.player-idle-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:006][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/idle/player-idle-2.player-idle-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:006][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/gem.png)
+[2022.09.11-15.59.11:018][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/oposum.png)
+[2022.09.11-15.59.11:025][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/idle/player-idle-3.player-idle-3 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:025][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/idle/player-idle-4.player-idle-4 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:025][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/payer-run.png)
+[2022.09.11-15.59.11:033][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/player-climb.png)
+[2022.09.11-15.59.11:048][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/jump/player-jump-1.player-jump-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:048][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/jump/player-jump-2.player-jump-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:048][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/run/player-run-1.player-run-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:048][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/run/player-run-2.player-run-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:049][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/player-crouch.png)
+[2022.09.11-15.59.11:056][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/run/player-run-3.player-run-3 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:056][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/player-hurt.png)
+[2022.09.11-15.59.11:065][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/player-idle.png)
+[2022.09.11-15.59.11:073][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/run/player-run-4.player-run-4 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:073][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Irukandji\Documents\Unreal_First_Assets\Sunny Land Assets\PNG/spritesheets/player-jump.png)
+[2022.09.11-15.59.11:092][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/run/player-run-5.player-run-5 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:092][ 70]LogTexture: Display: Building textures: /Game/PNG/sprites/player/run/player-run-6.player-run-6 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:092][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/cherry.cherry (BGRA8, 105X21 X1X1) (Required Memory Estimate: 0.042057 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:092][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/eagle-attack.eagle-attack (BGRA8, 160X41 X1X1) (Required Memory Estimate: 0.125122 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:092][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/enemy-deadth.enemy-deadth (BGRA8, 240X41 X1X1) (Required Memory Estimate: 0.187683 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:092][ 70]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.09.11-15.59.11:475][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/frog-idle.frog-idle (TFO_AutoDXT, 140X32 X1X1) (Required Memory Estimate: 0.085449 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:475][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/frog-jump.frog-jump (BGRA8, 105X32 X1X1) (Required Memory Estimate: 0.064087 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:475][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/gem.gem (BGRA8, 75X13 X1X1) (Required Memory Estimate: 0.018597 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:475][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/oposum.oposum (TFO_AutoDXT, 216X28 X1X1) (Required Memory Estimate: 0.115356 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:475][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/payer-run.payer-run (BGRA8, 198X32 X1X1) (Required Memory Estimate: 0.12085 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:475][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/player-climb.player-climb (BGRA8, 99X32 X1X1) (Required Memory Estimate: 0.060425 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:475][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/player-crouch.player-crouch (BGRA8, 66X32 X1X1) (Required Memory Estimate: 0.040283 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:475][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/player-hurt.player-hurt (BGRA8, 66X32 X1X1) (Required Memory Estimate: 0.040283 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:476][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/player-idle.player-idle (TFO_AutoDXT, 132X32 X1X1) (Required Memory Estimate: 0.080566 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.11:476][ 70]LogTexture: Display: Building textures: /Game/PNG/spritesheets/player-jump.player-jump (BGRA8, 66X32 X1X1) (Required Memory Estimate: 0.040283 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.19:669][355]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-15.59.19:669][355]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-15.59.22:525][487]LogTexture: Display: Building textures: /Game/PNG/environment/layers/back.back (BGRA8, 384X240 X1X1) (Required Memory Estimate: 1.757812 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:531][487]LogTexture: Display: Building textures: /Game/PNG/environment/props/big-crate.big-crate (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:552][487]LogTexture: Display: Building textures: /Game/PNG/environment/props/block.block (BGRA8, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:552][487]LogTexture: Display: Building textures: /Game/PNG/environment/props/block-big.block-big (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:553][487]LogTexture: Display: Building textures: /Game/PNG/environment/props/crate.crate (BGRA8, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:554][487]LogTexture: Display: Building textures: /Game/PNG/environment/environment-preview.environment-preview (BGRA8, 1456X464 X1X1) (Required Memory Estimate: 12.885742 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:589][487]LogTexture: Display: Building textures: /Game/PNG/environment/props/face-block.face-block (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/spritesheets/frog-idle.frog-idle (BGRA8, 140X32 X1X1) (Required Memory Estimate: 0.085449 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-1.item-feedback-1 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-2.item-feedback-2 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-3.item-feedback-3 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-4.item-feedback-4 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/environment/layers/middle.middle (BGRA8, 176X368 X1X1) (Required Memory Estimate: 1.235352 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-1.opossum-1 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-2.opossum-2 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-3.opossum-3 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-4.opossum-4 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-5.opossum-5 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-6.opossum-6 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/spritesheets/oposum.oposum (BGRA8, 216X28 X1X1) (Required Memory Estimate: 0.115356 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/environment/props/platform-long.platform-long (BGRA8, 32X16 X1X1) (Required Memory Estimate: 0.009766 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:647][488]LogTexture: Display: Building textures: /Game/PNG/spritesheets/player-idle.player-idle (BGRA8, 132X32 X1X1) (Required Memory Estimate: 0.080566 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:648][488]LogTexture: Display: Building textures: /Game/PNG/environment/layers/props.props (BGRA8, 416X224 X1X1) (Required Memory Estimate: 1.777344 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:648][488]LogTexture: Display: Building textures: /Game/PNG/environment/props/small-platform.small-platform (BGRA8, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.22:648][488]LogTexture: Display: Building textures: /Game/PNG/environment/layers/tileset.tileset (BGRA8, 400X368 X1X1) (Required Memory Estimate: 2.807617 MB), EncodeSpeed: Fast
+[2022.09.11-15.59.28:364][686]LogDerivedDataCache: C:/Users/Irukandji/Documents/Unreal Projects/SunnyPlatformer/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.11-15.59.28:364][686]LogDerivedDataCache: C:/Users/Irukandji/Documents/Unreal Projects/SunnyPlatformer/DerivedDataCache: Maintenance finished in +00:00:00.031 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.11-15.59.40:497][238]LogContentBrowser: Attempting asset rename: PNG -> SunnyLandAssets
+[2022.09.11-15.59.41:038][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/player-jump
+[2022.09.11-15.59.41:039][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-jump5F72F60041073921FA90B196027DC836.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/player-jump.uasset'
+[2022.09.11-15.59.41:051][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/player-idle
+[2022.09.11-15.59.41:051][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-idle0C128B5542B5C7151DA0A08781124AC7.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/player-idle.uasset'
+[2022.09.11-15.59.41:058][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/player-hurt
+[2022.09.11-15.59.41:058][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-hurt3A836A174621C5156F35218134B45343.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/player-hurt.uasset'
+[2022.09.11-15.59.41:065][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/player-crouch
+[2022.09.11-15.59.41:065][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-crouch1D11A9F74C19B9453F9536980CD30573.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/player-crouch.uasset'
+[2022.09.11-15.59.41:072][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/player-climb
+[2022.09.11-15.59.41:072][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-climb8E9C510E4F406C34870C18A8031F1FEB.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/player-climb.uasset'
+[2022.09.11-15.59.41:080][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/payer-run
+[2022.09.11-15.59.41:080][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/payer-run2D6C092B4F44CE9B56108880124078AD.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/payer-run.uasset'
+[2022.09.11-15.59.41:093][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/oposum
+[2022.09.11-15.59.41:093][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/oposum7767B02F4035809DA5E803851EE70FF6.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/oposum.uasset'
+[2022.09.11-15.59.41:099][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/frog-jump
+[2022.09.11-15.59.41:099][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/frog-jump8EDCA552481CC4387F7AA8BFEFE175D1.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/frog-jump.uasset'
+[2022.09.11-15.59.41:106][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/frog-idle
+[2022.09.11-15.59.41:106][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/frog-idle844632854B6EE0DF3FF5EDA78FF0CD71.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/frog-idle.uasset'
+[2022.09.11-15.59.41:114][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/enemy-deadth
+[2022.09.11-15.59.41:115][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/enemy-deadth56F115484A1F2542A32585A9DABDB76C.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/enemy-deadth.uasset'
+[2022.09.11-15.59.41:125][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/eagle-attack
+[2022.09.11-15.59.41:126][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/eagle-attackC6F989904D27B0E9B98F90B6B45559A8.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/eagle-attack.uasset'
+[2022.09.11-15.59.41:132][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/gem
+[2022.09.11-15.59.41:132][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/gem42333ABE434C22A3DEDE61A3481E5C10.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/gem.uasset'
+[2022.09.11-15.59.41:141][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/spritesheets/cherry
+[2022.09.11-15.59.41:141][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/cherry760E70C242744E10E950EAA6CC507C61.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/spritesheets/cherry.uasset'
+[2022.09.11-15.59.41:149][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/run/player-run-6
+[2022.09.11-15.59.41:149][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-run-6803CDE4646AE302260E3D7B5CB7E4B0C.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/run/player-run-6.uasset'
+[2022.09.11-15.59.41:160][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/run/player-run-5
+[2022.09.11-15.59.41:160][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-run-5AAB3FC494624FE7C275B1A9B1DCBAF86.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/run/player-run-5.uasset'
+[2022.09.11-15.59.41:166][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/run/player-run-4
+[2022.09.11-15.59.41:167][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-run-4A8BA1D3B4FCBDE5318F2A9ACD33E9BA6.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/run/player-run-4.uasset'
+[2022.09.11-15.59.41:174][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/run/player-run-3
+[2022.09.11-15.59.41:174][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-run-3F33589F2431BCDFE247E108CC8BEAF3B.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/run/player-run-3.uasset'
+[2022.09.11-15.59.41:181][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/run/player-run-2
+[2022.09.11-15.59.41:181][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-run-2A0D321DD46BE259C3F82EF83EF04F179.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/run/player-run-2.uasset'
+[2022.09.11-15.59.41:196][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/run/player-run-1
+[2022.09.11-15.59.41:196][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-run-1F3356DF540E4514D66CBB1BA48CD9E42.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/run/player-run-1.uasset'
+[2022.09.11-15.59.41:202][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/jump/player-jump-2
+[2022.09.11-15.59.41:202][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-jump-2E3B98A3F4E16D2249B57B8A1F5F88B58.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/jump/player-jump-2.uasset'
+[2022.09.11-15.59.41:209][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/jump/player-jump-1
+[2022.09.11-15.59.41:209][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-jump-1A9770E5B4D1608312C78B3ABCA64FDDD.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/jump/player-jump-1.uasset'
+[2022.09.11-15.59.41:222][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/idle/player-idle-4
+[2022.09.11-15.59.41:222][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-idle-4FE708A3A4A6D006A210B969363D842C9.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/idle/player-idle-4.uasset'
+[2022.09.11-15.59.41:236][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/idle/player-idle-3
+[2022.09.11-15.59.41:236][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-idle-362B8435643DBF9FA253091AEB23E0EDE.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/idle/player-idle-3.uasset'
+[2022.09.11-15.59.41:242][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/idle/player-idle-2
+[2022.09.11-15.59.41:243][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-idle-24304066B439461996C5004A15C30B86B.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/idle/player-idle-2.uasset'
+[2022.09.11-15.59.41:250][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/idle/player-idle-1
+[2022.09.11-15.59.41:250][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-idle-16F1BE8294518D7772BECAE9C8C464D8E.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/idle/player-idle-1.uasset'
+[2022.09.11-15.59.41:261][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/hurt/player-hurt-2
+[2022.09.11-15.59.41:261][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-hurt-26597BB8B4EBE8A318C2BF79049A664CD.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/hurt/player-hurt-2.uasset'
+[2022.09.11-15.59.41:268][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/hurt/player-hurt-1
+[2022.09.11-15.59.41:268][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-hurt-1EECFAE4C41401E51645258BF589C5150.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/hurt/player-hurt-1.uasset'
+[2022.09.11-15.59.41:276][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/crouch/player-crouch-2
+[2022.09.11-15.59.41:276][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-crouch-2C10959A649E9A782E15E998283EC838E.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/crouch/player-crouch-2.uasset'
+[2022.09.11-15.59.41:283][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/crouch/player-crouch-1
+[2022.09.11-15.59.41:283][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-crouch-1C58DC0E04C33D45C8E9955935E8A57C3.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/crouch/player-crouch-1.uasset'
+[2022.09.11-15.59.41:297][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/climb/player-climb-3
+[2022.09.11-15.59.41:297][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-climb-36B5575A143D353EC5AA346826702C315.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/climb/player-climb-3.uasset'
+[2022.09.11-15.59.41:303][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/climb/player-climb-2
+[2022.09.11-15.59.41:303][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-climb-24505CF8B401FC39417D5C2AC6B026DD4.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/climb/player-climb-2.uasset'
+[2022.09.11-15.59.41:311][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/player/climb/player-climb-1
+[2022.09.11-15.59.41:311][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/player-climb-151DEEB654C76B331D803079BF5C49707.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/player/climb/player-climb-1.uasset'
+[2022.09.11-15.59.41:325][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/opossum/opossum-6
+[2022.09.11-15.59.41:325][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/opossum-6FC9BF7E34D2C60EF38ADB8B8612D09B0.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/opossum/opossum-6.uasset'
+[2022.09.11-15.59.41:333][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/opossum/opossum-5
+[2022.09.11-15.59.41:334][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/opossum-5252BB5744F0F267732877E9CF9710CFA.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/opossum/opossum-5.uasset'
+[2022.09.11-15.59.41:340][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/opossum/opossum-4
+[2022.09.11-15.59.41:340][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/opossum-409BD37C24C34F7730EE14D8D4B02C3DD.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/opossum/opossum-4.uasset'
+[2022.09.11-15.59.41:346][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/opossum/opossum-3
+[2022.09.11-15.59.41:346][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/opossum-3E0E2B60F4E29B7068BC22B9D035CDFB9.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/opossum/opossum-3.uasset'
+[2022.09.11-15.59.41:360][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/opossum/opossum-2
+[2022.09.11-15.59.41:360][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/opossum-2524831814F003B476DD668AAC5AEBFD0.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/opossum/opossum-2.uasset'
+[2022.09.11-15.59.41:366][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/opossum/opossum-1
+[2022.09.11-15.59.41:366][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/opossum-1C5C0671949CB2696E32711941653FBED.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/opossum/opossum-1.uasset'
+[2022.09.11-15.59.41:373][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/item-feedback/item-feedback-4
+[2022.09.11-15.59.41:373][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/item-feedback-497D6F4D74712AD51C7C803A2E6DB93AD.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/item-feedback/item-feedback-4.uasset'
+[2022.09.11-15.59.41:380][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/item-feedback/item-feedback-3
+[2022.09.11-15.59.41:380][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/item-feedback-3C0A1EBF54280106CBF576EB0BBCFD6CC.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/item-feedback/item-feedback-3.uasset'
+[2022.09.11-15.59.41:395][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/item-feedback/item-feedback-2
+[2022.09.11-15.59.41:395][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/item-feedback-29D5F51434B9C2F1C120E998627D4F3A6.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/item-feedback/item-feedback-2.uasset'
+[2022.09.11-15.59.41:400][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/item-feedback/item-feedback-1
+[2022.09.11-15.59.41:400][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/item-feedback-17F272FB74972C9F016C12D98D5EC42F9.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/item-feedback/item-feedback-1.uasset'
+[2022.09.11-15.59.41:407][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/gem/gem-5
+[2022.09.11-15.59.41:407][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/gem-58CD34EEE43C9674F66D52DBBDE1AB282.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/gem/gem-5.uasset'
+[2022.09.11-15.59.41:414][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/gem/gem-4
+[2022.09.11-15.59.41:414][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/gem-48C9DAF5C4CB730AD0DCED6A5808B71E3.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/gem/gem-4.uasset'
+[2022.09.11-15.59.41:429][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/gem/gem-3
+[2022.09.11-15.59.41:429][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/gem-34C4367F74675CDE8203057AFCF9FFA76.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/gem/gem-3.uasset'
+[2022.09.11-15.59.41:434][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/gem/gem-2
+[2022.09.11-15.59.41:435][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/gem-2CCCDA1BA476556F925FCC99FF80DFC24.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/gem/gem-2.uasset'
+[2022.09.11-15.59.41:442][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/gem/gem-1
+[2022.09.11-15.59.41:442][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/gem-14C24AC0C4A064F8BECDC139996951267.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/gem/gem-1.uasset'
+[2022.09.11-15.59.41:449][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/frog/jump/frog-jump-2
+[2022.09.11-15.59.41:449][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/frog-jump-23AA16F324D6957AC3BCE73AAFA8BC0B9.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/frog/jump/frog-jump-2.uasset'
+[2022.09.11-15.59.41:463][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/frog/jump/frog-jump-1
+[2022.09.11-15.59.41:463][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/frog-jump-172D0A3154028FA601350529D54FFDA13.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/frog/jump/frog-jump-1.uasset'
+[2022.09.11-15.59.41:469][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/frog/idle/frog-idle-4
+[2022.09.11-15.59.41:470][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/frog-idle-4815CD862484C89F774FFB6B65FC3D7BC.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/frog/idle/frog-idle-4.uasset'
+[2022.09.11-15.59.41:477][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/frog/idle/frog-idle-3
+[2022.09.11-15.59.41:477][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/frog-idle-375C39E2A40A2BA23119CF2B0D72138FA.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/frog/idle/frog-idle-3.uasset'
+[2022.09.11-15.59.41:484][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/frog/idle/frog-idle-2
+[2022.09.11-15.59.41:484][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/frog-idle-2C424895C4A3A44DD67FB8C8D1E97035B.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/frog/idle/frog-idle-2.uasset'
+[2022.09.11-15.59.41:495][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/frog/idle/frog-idle-1
+[2022.09.11-15.59.41:495][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/frog-idle-1EE39412E4D2D0271F1E480839BE5BDF2.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/frog/idle/frog-idle-1.uasset'
+[2022.09.11-15.59.41:501][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-6
+[2022.09.11-15.59.41:502][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/enemy-death-60DB17E024D6723C0B71556961A05EEE4.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/enemy-death/enemy-death-6.uasset'
+[2022.09.11-15.59.41:509][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-5
+[2022.09.11-15.59.41:510][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/enemy-death-5443947DB46BDC9C7BE30DFBEEA9FC6DD.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/enemy-death/enemy-death-5.uasset'
+[2022.09.11-15.59.41:517][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-4
+[2022.09.11-15.59.41:517][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/enemy-death-4FA8338D04E79E4F736E9B6B0A557EB32.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/enemy-death/enemy-death-4.uasset'
+[2022.09.11-15.59.41:531][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-3
+[2022.09.11-15.59.41:531][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/enemy-death-30CA12F0E4A55AC6BDD480C995CDC509B.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/enemy-death/enemy-death-3.uasset'
+[2022.09.11-15.59.41:538][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-2
+[2022.09.11-15.59.41:539][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/enemy-death-2EA6FE05744B06BB841ADD38B451A2506.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/enemy-death/enemy-death-2.uasset'
+[2022.09.11-15.59.41:545][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-1
+[2022.09.11-15.59.41:545][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/enemy-death-1A415DB8E42D6C7BF685A0B94C10F6801.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/enemy-death/enemy-death-1.uasset'
+[2022.09.11-15.59.41:553][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/eagle/eagle-attack-4
+[2022.09.11-15.59.41:553][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/eagle-attack-43441466940B235570ACFD19553F825A1.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/eagle/eagle-attack-4.uasset'
+[2022.09.11-15.59.41:565][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/eagle/eagle-attack-3
+[2022.09.11-15.59.41:566][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/eagle-attack-36BF251FC4DF289413301C58AD6925A1B.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/eagle/eagle-attack-3.uasset'
+[2022.09.11-15.59.41:573][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/eagle/eagle-attack-2
+[2022.09.11-15.59.41:573][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/eagle-attack-2771272964E442FBAD8DF72AE142BE5B4.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/eagle/eagle-attack-2.uasset'
+[2022.09.11-15.59.41:582][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/eagle/eagle-attack-1
+[2022.09.11-15.59.41:583][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/eagle-attack-18A4857974E89271D4DAF85B5401B2728.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/eagle/eagle-attack-1.uasset'
+[2022.09.11-15.59.41:591][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/cherry/cherry-7
+[2022.09.11-15.59.41:591][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/cherry-7505C03194D2A1F7D65D4338C7FDCCDFC.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/cherry/cherry-7.uasset'
+[2022.09.11-15.59.41:597][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/cherry/cherry-6
+[2022.09.11-15.59.41:598][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/cherry-6C9A2CE044667AB040828529A44A29D53.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/cherry/cherry-6.uasset'
+[2022.09.11-15.59.41:604][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/cherry/cherry-5
+[2022.09.11-15.59.41:604][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/cherry-5418FA1DB40C2AD0399676F84A7CA60D3.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/cherry/cherry-5.uasset'
+[2022.09.11-15.59.41:616][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/cherry/cherry-4
+[2022.09.11-15.59.41:616][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/cherry-4D1F609324A7A80DBA3451FAA73E7F9A8.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/cherry/cherry-4.uasset'
+[2022.09.11-15.59.41:634][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/cherry/cherry-3
+[2022.09.11-15.59.41:634][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/cherry-39612295F4C33292F384D45974C5A6965.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/cherry/cherry-3.uasset'
+[2022.09.11-15.59.41:642][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/cherry/cherry-2
+[2022.09.11-15.59.41:643][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/cherry-243EA680C4C1C85C548FC4A821BA30057.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/cherry/cherry-2.uasset'
+[2022.09.11-15.59.41:657][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/sprites/cherry/cherry-1
+[2022.09.11-15.59.41:657][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/cherry-10C137B5443F8F500E7467F9C4F052B32.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/sprites/cherry/cherry-1.uasset'
+[2022.09.11-15.59.41:666][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/tree
+[2022.09.11-15.59.41:667][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/treeC749B9E541B01BE24279BB96D1CEE5E5.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/tree.uasset'
+[2022.09.11-15.59.41:674][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/spikes-top
+[2022.09.11-15.59.41:674][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/spikes-top3FA7621244CCA34622BB4F8229605394.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/spikes-top.uasset'
+[2022.09.11-15.59.41:681][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/spike-skull
+[2022.09.11-15.59.41:681][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/spike-skull3CAE67AD41EBCB6163925B9A1F587E00.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/spike-skull.uasset'
+[2022.09.11-15.59.41:689][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/small-platform
+[2022.09.11-15.59.41:689][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/small-platformCF8DFECD4C699B1242F0C784706E0730.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/small-platform.uasset'
+[2022.09.11-15.59.41:698][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/skulls
+[2022.09.11-15.59.41:699][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/skullsD3C08EFC4BE1A91A57CDC4A4DCE4C434.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/skulls.uasset'
+[2022.09.11-15.59.41:705][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/sign
+[2022.09.11-15.59.41:705][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/signCFCB6D2F4CEB43851C3DE7980A5118AD.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/sign.uasset'
+[2022.09.11-15.59.41:712][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/spikes
+[2022.09.11-15.59.41:713][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/spikesD63CF9CA4D22B570C03CBBBBDEBA177B.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/spikes.uasset'
+[2022.09.11-15.59.41:719][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/shrooms
+[2022.09.11-15.59.41:720][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/shrooms493838254F06233B1AB4D78D1CCB7A23.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/shrooms.uasset'
+[2022.09.11-15.59.41:738][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/rock
+[2022.09.11-15.59.41:738][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/rock8D8F0CE24505657ABD0351AC4C1DC870.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/rock.uasset'
+[2022.09.11-15.59.41:745][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/platform-long
+[2022.09.11-15.59.41:745][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/platform-long18E5BBFF45184671F9E618BB71966A2D.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/platform-long.uasset'
+[2022.09.11-15.59.41:754][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/house
+[2022.09.11-15.59.41:754][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/house54A8E6CE4C2BB5F1F68212872B4EC303.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/house.uasset'
+[2022.09.11-15.59.41:761][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/face-block
+[2022.09.11-15.59.41:761][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/face-blockB84138094DEFA8EDA53B2D8EC7D57954.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/face-block.uasset'
+[2022.09.11-15.59.41:776][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/door
+[2022.09.11-15.59.41:776][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/door994B1A3F4141F4CBBF7D1FBE27F66E95.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/door.uasset'
+[2022.09.11-15.59.41:783][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/door-opened
+[2022.09.11-15.59.41:783][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/door-openedFAB589454A16A10E3A54E7978588A726.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/door-opened.uasset'
+[2022.09.11-15.59.41:793][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/crate
+[2022.09.11-15.59.41:794][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/crateD47CBD2B48DA0C21D10296A72BA5914A.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/crate.uasset'
+[2022.09.11-15.59.41:801][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/crank-up
+[2022.09.11-15.59.41:801][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/crank-upF732B5924A42458406918AAEF7D303D9.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/crank-up.uasset'
+[2022.09.11-15.59.41:812][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/crank-down
+[2022.09.11-15.59.41:813][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/crank-downBEABC2FC461B03733C2A1D9833B953C2.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/crank-down.uasset'
+[2022.09.11-15.59.41:819][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/bush
+[2022.09.11-15.59.41:820][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/bushE057CED94626F6E7A0401DB345D0831B.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/bush.uasset'
+[2022.09.11-15.59.41:826][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/block
+[2022.09.11-15.59.41:827][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/blockBFE45E9F4F72324A4098E3981506728B.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/block.uasset'
+[2022.09.11-15.59.41:838][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/block-big
+[2022.09.11-15.59.41:838][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/block-bigF943EFCD4981CBBAEB2E4AAF63164233.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/block-big.uasset'
+[2022.09.11-15.59.41:848][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/props/big-crate
+[2022.09.11-15.59.41:848][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/big-crate6F7AEA7E44ECDDFB520461AA2F6BB905.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/props/big-crate.uasset'
+[2022.09.11-15.59.41:873][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/layers/tileset
+[2022.09.11-15.59.41:874][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/tilesetB954924F48F63955E6BE09AADC7BDA02.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/layers/tileset.uasset'
+[2022.09.11-15.59.41:889][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/layers/props
+[2022.09.11-15.59.41:889][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/propsDA1AFEF247C5D743A0E82CB56FCDE3D0.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/layers/props.uasset'
+[2022.09.11-15.59.41:904][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/layers/middle
+[2022.09.11-15.59.41:904][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/middle15FB14144245909ECB175A8DC788DC0A.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/layers/middle.uasset'
+[2022.09.11-15.59.41:921][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/layers/back
+[2022.09.11-15.59.41:921][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/back17C125F84C81799073A82BB4F0916D50.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/layers/back.uasset'
+[2022.09.11-15.59.41:992][238]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/environment-preview
+[2022.09.11-15.59.41:992][238]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/environment-preview371277754A91B3EFF5CC1AB1D18686CC.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/environment-preview.uasset'
+[2022.09.11-15.59.44:127][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.09.11-15.59.44:149][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.09.11-15.59.44:174][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.11-15.59.44:214][238]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.11-15.59.44:214][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/player-jump.player-jump
+[2022.09.11-15.59.44:214][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/player-idle.player-idle
+[2022.09.11-15.59.44:214][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/player-hurt.player-hurt
+[2022.09.11-15.59.44:214][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/player-crouch.player-crouch
+[2022.09.11-15.59.44:214][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/player-climb.player-climb
+[2022.09.11-15.59.44:214][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/payer-run.payer-run
+[2022.09.11-15.59.44:214][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/oposum.oposum
+[2022.09.11-15.59.44:214][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/frog-jump.frog-jump
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/frog-idle.frog-idle
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/enemy-deadth.enemy-deadth
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/eagle-attack.eagle-attack
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/gem.gem
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/spritesheets/cherry.cherry
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/run/player-run-6.player-run-6
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/run/player-run-5.player-run-5
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/run/player-run-4.player-run-4
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/run/player-run-3.player-run-3
+[2022.09.11-15.59.44:215][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/run/player-run-2.player-run-2
+[2022.09.11-15.59.44:216][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/run/player-run-1.player-run-1
+[2022.09.11-15.59.44:216][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/jump/player-jump-2.player-jump-2
+[2022.09.11-15.59.44:216][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/jump/player-jump-1.player-jump-1
+[2022.09.11-15.59.44:216][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/idle/player-idle-4.player-idle-4
+[2022.09.11-15.59.44:216][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/idle/player-idle-3.player-idle-3
+[2022.09.11-15.59.44:216][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/idle/player-idle-2.player-idle-2
+[2022.09.11-15.59.44:216][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/idle/player-idle-1.player-idle-1
+[2022.09.11-15.59.44:216][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/hurt/player-hurt-2.player-hurt-2
+[2022.09.11-15.59.44:217][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/hurt/player-hurt-1.player-hurt-1
+[2022.09.11-15.59.44:217][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/crouch/player-crouch-2.player-crouch-2
+[2022.09.11-15.59.44:218][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/crouch/player-crouch-1.player-crouch-1
+[2022.09.11-15.59.44:218][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/climb/player-climb-3.player-climb-3
+[2022.09.11-15.59.44:218][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/climb/player-climb-2.player-climb-2
+[2022.09.11-15.59.44:218][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/player/climb/player-climb-1.player-climb-1
+[2022.09.11-15.59.44:218][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/opossum/opossum-6.opossum-6
+[2022.09.11-15.59.44:218][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/opossum/opossum-5.opossum-5
+[2022.09.11-15.59.44:218][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/opossum/opossum-4.opossum-4
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/opossum/opossum-3.opossum-3
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/opossum/opossum-2.opossum-2
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/opossum/opossum-1.opossum-1
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/item-feedback/item-feedback-4.item-feedback-4
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/item-feedback/item-feedback-3.item-feedback-3
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/item-feedback/item-feedback-2.item-feedback-2
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/item-feedback/item-feedback-1.item-feedback-1
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/gem/gem-5.gem-5
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/gem/gem-4.gem-4
+[2022.09.11-15.59.44:219][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/gem/gem-3.gem-3
+[2022.09.11-15.59.44:220][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/gem/gem-2.gem-2
+[2022.09.11-15.59.44:221][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/gem/gem-1.gem-1
+[2022.09.11-15.59.44:221][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/frog/jump/frog-jump-2.frog-jump-2
+[2022.09.11-15.59.44:221][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/frog/jump/frog-jump-1.frog-jump-1
+[2022.09.11-15.59.44:221][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/frog/idle/frog-idle-4.frog-idle-4
+[2022.09.11-15.59.44:221][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/frog/idle/frog-idle-3.frog-idle-3
+[2022.09.11-15.59.44:222][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/frog/idle/frog-idle-2.frog-idle-2
+[2022.09.11-15.59.44:222][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/frog/idle/frog-idle-1.frog-idle-1
+[2022.09.11-15.59.44:222][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-6.enemy-death-6
+[2022.09.11-15.59.44:223][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-5.enemy-death-5
+[2022.09.11-15.59.44:224][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-4.enemy-death-4
+[2022.09.11-15.59.44:224][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-3.enemy-death-3
+[2022.09.11-15.59.44:224][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-2.enemy-death-2
+[2022.09.11-15.59.44:224][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/enemy-death/enemy-death-1.enemy-death-1
+[2022.09.11-15.59.44:224][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/eagle/eagle-attack-4.eagle-attack-4
+[2022.09.11-15.59.44:224][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/eagle/eagle-attack-3.eagle-attack-3
+[2022.09.11-15.59.44:224][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/eagle/eagle-attack-2.eagle-attack-2
+[2022.09.11-15.59.44:228][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/eagle/eagle-attack-1.eagle-attack-1
+[2022.09.11-15.59.44:228][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/cherry/cherry-7.cherry-7
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/cherry/cherry-6.cherry-6
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/cherry/cherry-5.cherry-5
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/cherry/cherry-4.cherry-4
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/cherry/cherry-3.cherry-3
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/cherry/cherry-2.cherry-2
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/sprites/cherry/cherry-1.cherry-1
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/tree.tree
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/spikes-top.spikes-top
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/spike-skull.spike-skull
+[2022.09.11-15.59.44:229][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/small-platform.small-platform
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/skulls.skulls
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/sign.sign
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/spikes.spikes
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/shrooms.shrooms
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/rock.rock
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/platform-long.platform-long
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/house.house
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/face-block.face-block
+[2022.09.11-15.59.44:230][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/door.door
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/door-opened.door-opened
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/crate.crate
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/crank-up.crank-up
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/crank-down.crank-down
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/bush.bush
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/block.block
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/block-big.block-big
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/props/big-crate.big-crate
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/layers/tileset.tileset
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/layers/props.props
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/layers/middle.middle
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/layers/back.back
+[2022.09.11-15.59.44:231][238]LogContentValidation: Display: Validating Texture2D /Game/SunnyLandAssets/environment/environment-preview.environment-preview
+[2022.09.11-16.00.48:206][712]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-16.00.48:206][712]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-16.00.48:412][718]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-16.00.48:412][718]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-16.00.52:266][927]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/SunnyLandAssets/environment/layers/back_Sprite.back_Sprite
+[2022.09.11-16.00.52:267][927]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/SunnyLandAssets/environment/layers/back_Sprite.back_Sprite
+[2022.09.11-16.00.52:270][927]LogActorFactory: Actor Factory spawned PaperSprite /Game/SunnyLandAssets/environment/layers/back_Sprite.back_Sprite as actor: PaperSpriteActor /Game/Maps/Map_1_Scroller.Map_1_Scroller:PersistentLevel.PaperSpriteActor_0
+[2022.09.11-16.00.52:271][927]LogActorFactory: Actor Factory spawned PaperSprite /Game/SunnyLandAssets/environment/layers/back_Sprite.back_Sprite as actor: PaperSpriteActor /Game/Maps/Map_1_Scroller.Map_1_Scroller:PersistentLevel.PaperSpriteActor_0
+[2022.09.11-16.00.52:787][950]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/SunnyLandAssets/environment/layers/back_Sprite.back_Sprite
+[2022.09.11-16.00.52:787][950]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/SunnyLandAssets/environment/layers/back_Sprite.back_Sprite
+[2022.09.11-16.00.52:790][950]LogActorFactory: Actor Factory spawned PaperSprite /Game/SunnyLandAssets/environment/layers/back_Sprite.back_Sprite as actor: PaperSpriteActor /Game/Maps/Map_1_Scroller.Map_1_Scroller:PersistentLevel.PaperSpriteActor_1
+[2022.09.11-16.00.52:791][950]LogActorFactory: Actor Factory spawned PaperSprite /Game/SunnyLandAssets/environment/layers/back_Sprite.back_Sprite as actor: PaperSpriteActor /Game/Maps/Map_1_Scroller.Map_1_Scroller:PersistentLevel.PaperSpriteActor_1
+[2022.09.11-16.00.56:508][ 75]LogEditorViewport: Clicking Background
+[2022.09.11-16.01.01:252][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-16.01.01:252][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-16.01.06:802][630]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/SunnyLandAssets/environment/layers/tileset_TileSet.tileset_TileSet
+[2022.09.11-16.01.06:828][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.11-16.01.07:024][630]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.11-16.01.07:031][630]LogViewport: Scene viewport resized to 407x311, mode Windowed.
+[2022.09.11-16.01.07:053][630]LogViewport: Scene viewport resized to 464x141, mode Windowed.
+[2022.09.11-16.01.07:070][630]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.11-16.01.08:531][671]LogViewport: Scene viewport resized to 629x565, mode Windowed.
+[2022.09.11-16.01.08:549][671]LogViewport: Scene viewport resized to 718x268, mode Windowed.
+[2022.09.11-16.01.09:550][696]LogViewport: Scene viewport resized to 407x311, mode Windowed.
+[2022.09.11-16.01.09:571][696]LogViewport: Scene viewport resized to 464x141, mode Windowed.
+[2022.09.11-16.01.10:279][713]LogViewport: Scene viewport resized to 405x334, mode Windowed.
+[2022.09.11-16.01.10:302][713]LogViewport: Scene viewport resized to 462x152, mode Windowed.
+[2022.09.11-16.01.10:375][715]LogViewport: Scene viewport resized to 629x565, mode Windowed.
+[2022.09.11-16.01.10:397][715]LogViewport: Scene viewport resized to 718x268, mode Windowed.
+[2022.09.11-16.01.10:700][746]LogSlate: Window 'tileset_TileSet' being destroyed
+[2022.09.11-16.05.22:969][979]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/layers/tileset_TileSet
+[2022.09.11-16.05.22:970][979]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/tileset_TileSet2439226A48BBCED4AE79529C7AEE569D.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/layers/tileset_TileSet.uasset'
+[2022.09.11-16.05.22:991][979]AssetCheck: New page: Asset Save: tileset_TileSet
+[2022.09.11-16.05.22:991][979]LogContentValidation: Display: Validating PaperTileSet /Game/SunnyLandAssets/environment/layers/tileset_TileSet.tileset_TileSet
+[2022.09.11-16.05.23:875][ 19]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.11-16.05.23:875][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.11-16.05.26:955][163]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-16.05.26:955][163]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.11-16.05.28:052][250]LogContentBrowser: Deferred new asset file creation: tileset_TileMap
+[2022.09.11-16.05.28:080][250]LogContentBrowser: Creating deferred item: tileset_TileMap
+[2022.09.11-16.05.28:101][251]LogContentBrowser: Renaming the item being created (Deferred Item: tileset_TileMap).
+[2022.09.11-16.05.29:185][292]LogContentBrowser: Attempting asset rename: tileset_TileMap -> tileset_TileMap
+[2022.09.11-16.05.29:193][292]LogContentBrowser: End creating deferred item tileset_TileMap
+[2022.09.11-16.05.29:306][298]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/SunnyLandAssets/environment/layers/tileset_TileMap.tileset_TileMap
+[2022.09.11-16.05.29:315][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.11-16.05.29:476][298]LogViewport: Scene viewport resized to 188x226, mode Windowed.
+[2022.09.11-16.05.29:510][298]LogViewport: Scene viewport resized to 533x336, mode Windowed.
+[2022.09.11-16.05.39:440][597]LogSavePackage: Moving output files for package: /Game/SunnyLandAssets/environment/layers/tileset_TileMap
+[2022.09.11-16.05.39:440][597]LogSavePackage: Moving '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Saved/tileset_TileMap28688E424F4C86EEFC47E1B21790EA3E.tmp' to '../../../../../../Users/Irukandji/Documents/Unreal Projects/SunnySideScroller/Content/SunnyLandAssets/environment/layers/tileset_TileMap.uasset'
+[2022.09.11-16.05.39:458][597]AssetCheck: New page: Asset Save: tileset_TileMap
+[2022.09.11-16.05.39:458][597]LogContentValidation: Display: Validating PaperTileMap /Game/SunnyLandAssets/environment/layers/tileset_TileMap.tileset_TileMap
+[2022.09.11-16.05.40:589][630]LogSlate: Window 'tileset_TileMap' being destroyed
+[2022.09.11-16.05.40:600][630]LogSlate: Window 'tileset_TileMap' being destroyed
+[2022.09.11-16.05.40:604][630]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.11-16.05.40:604][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
